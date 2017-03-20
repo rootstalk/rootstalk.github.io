@@ -1,0 +1,35 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.myheader{
+  padding:20px;
+  background-color: #EEEEEE;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  height: 150px;
+  z-index: 1;
+  background-position: fixed;
+
+}
+.montserrat{
+  font-family: Montserrat;
+}
+#main{
+  position: absolute;
+  top:170px; 
+}
+#roots-logo{
+  width:120;
+  height:120px;
+}
+.droid{
+  height: 75px;
+}
+.title{
+  font-weight: bold;
+  text-decoration: underline;
+  color: #9CCC04;
+}
+div{
+  text-align: justify;
+}

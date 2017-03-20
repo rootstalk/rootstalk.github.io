@@ -1,0 +1,26 @@
+html {
+  font-family: "Open Sans", sans-serif;
+  background-color: #EEE;
+}
+.myheader{
+  background-color: #CCC;
+  padding:20px;
+  height: 150px;
+  z-index: 1;
+}
+#roots-logo{
+  height: 100px;
+  width: 100px;
+}
+.montserrat{
+  font-family: Montserrat;
+}
+#main{
+  position: absolute;
+  top:170px; 
+}
+.chaptername{
+  color:#0474A4;
+  text-decoration: underline;
+  
+}
